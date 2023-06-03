@@ -1,0 +1,7 @@
+ .faq{
+    float:left;
+    border:solid;
+    border-color:black;
+    border-radius: 1xp;
+    margin:50px;
+}
